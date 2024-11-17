@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate passionate about 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)
 
 🔗 **Connect with me on LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/anushka-kadam](https://www.linkedin.com/in/anushka-kadam-6829211b6/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kadam-6829211b6/))
 
 🔗 **[Portfolio](https://your-portfolio-link.com)**  
 
