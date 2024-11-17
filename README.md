@@ -5,11 +5,18 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate passionate about 
 ---
 
 🌱 **Currently Exploring**: Interactive Dashboards & Transaction Monitoring  
-💬 **Ask me about**: Data Science, Machine Learning, Anti-Money Laundering  
+💬 **Ask me about:**  
+- **Data Analytics**: From exploratory data analysis to actionable insights  
+- **Machine Learning**: Building predictive models, NLP, and deep learning  
+- **Anti-Money Laundering**: Data-driven approaches to detect suspicious activities  
+- **Financial Modeling**: Utilizing data for trend analysis and forecasting  
+- **Visualization Tools**: Creating interactive dashboards with Tableau, Power BI  
+- **Data Engineering**: Data cleaning, transformation, and pipeline optimization  
+📫 **How to reach me:**  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)
 
-📫 **Contact Me**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-kadam)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushka.kadam@example.com)  
+🔗 **Connect with me on LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/anushka-kadam](https://www.linkedin.com/in/anushka-kadam-6829211b6/))
 
 🔗 **[Portfolio](https://your-portfolio-link.com)**  
 
