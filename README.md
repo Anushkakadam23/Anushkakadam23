@@ -14,10 +14,8 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate passionate about 
 - **Data Engineering**: Data cleaning, transformation, and pipeline optimization  
 📫 **How to reach me:**  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)
-
 🔗 **Connect with me on LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kadam-6829211b6/))
-
 🔗 **[Portfolio](https://your-portfolio-link.com)**  
 
 ---
@@ -37,12 +35,6 @@ Welcome to my GitHub profile! I'm an MSc Data Science graduate passionate about 
 
 ---
 
-## 🌍 Open Source & Research Contributions
-
-I’m actively involved in open-source data science projects, focusing on enhancing project functionality and usability. I’ve also published research on API-driven network management, demonstrating automation benefits in network operations.
-
----
-
 ## 📈 GitHub Stats
 
 ![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka-Kadam&show_icons=true&theme=radical)
@@ -52,6 +44,8 @@ I’m actively involved in open-source data science projects, focusing on enhanc
 ## 🤝 Let's Connect
 
 I’m excited to collaborate with fellow data scientists and developers to create impactful, data-driven solutions. Feel free to reach out or connect on LinkedIn – let’s build something great together!
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kadam-6829211b6/))
 
 ---
 
