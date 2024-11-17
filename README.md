@@ -55,8 +55,8 @@ Feel free to reach out via email:
 
 I am always open to collaborating with fellow data enthusiasts, developers, and organizations passionate about leveraging data for creating innovative solutions. If you're interested in working together, feel free to connect with me via email or LinkedIn. Let's join forces to build meaningful, data-driven projects!
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kadam-6829211b6/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkapkadam@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-kadam-6829211b6/)
+
 
 ---
 
