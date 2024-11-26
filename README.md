@@ -11,7 +11,7 @@ Feel free to reach out via email:
 
 ## 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/anushka-kadam-6829211b6/)**
 
-## 🔗 [Explore My Portfolio](https://your-portfolio-link.com)
+## 🔗 [Explore My Portfolio](https://anushkakadam.netlify.app/)
 
 ---
 
