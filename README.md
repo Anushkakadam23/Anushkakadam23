@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:1E293B&text=Hey,%20I'm%20Anushka%20Kadam!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=38BDF8" />
 </p>
-<p align="center">
+
+<p align="Left">
   <a href="mailto:anushkapkadam@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/email-anushkapkadam%40gmail.com-FF5A5F?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1020"
-    />
+    <img src="https://img.shields.io/badge/Email-anushkapkadam%40gmail.com-EA4C46?style=flat-square&logo=gmail&logoColor=white&labelColor=2d2d2d" />
   </a>
 </p>
 
