@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anushkakadam23/Anushkakadam23/main/Main_Banner.png" alt="Main Banner" width="100%" />
-</p>
+
 
 <p align="Left">
   <a href="mailto:anushkapkadam@gmail.com">
