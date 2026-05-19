@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,50:0F172A,100:3B0A1E&text=%20I'm%20Anushka%20Kadam&fontSize=50&fontColor=FF5A5F&fontAlignY=52&animation=fadeIn&desc=Hey,&descAlign=18&descAlignY=45&descSize=55&descColor=FFFFFF" />
+  <img src="https://raw.githubusercontent.com/Anushkakadam23/Anushkakadam23/main/Main_Banner.png" alt="Main Banner" width="100%" />
 </p>
 
 <p align="Left">
@@ -9,25 +9,33 @@
 </p>
 
 ## AI & Machine Learning Engineer  
-Forecasting • Anomaly Detection • LLMs • Intelligent Systems
+I enjoy building AI-powered systems that solve real-world problems using:
+- Machine Learning
+- Forecasting & Predictive Analytics
+- Generative AI
+- Scalable Data Pipelines
+- Intelligent Automation
 
----
-
-## 🚀 About Me
-
-- 🤖 Building AI-powered systems
-- 📈 Working on forecasting & predictive analytics
-- 🔍 Exploring anomaly detection & intelligent automation
-- 🧠 Learning LLMs, RAG & Agentic AI
+🎓 MSc Data Science – University of Greenwich  
 
 ---
 
 ## 🛠️ Tech Stack
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+## Backend & Tools
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+)
 
 ---
 
