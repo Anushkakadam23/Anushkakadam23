@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:1E293B&text=Hey,%20I'm%20Anushka%20Kadam!&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=38BDF8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,50:0F172A,100:3B0A1E&text=%20I'm%20Anushka%20Kadam&fontSize=50&fontColor=FF5A5F&fontAlignY=52&animation=fadeIn&desc=Hey,&descAlign=18&descAlignY=45&descSize=55&descColor=FFFFFF" />
 </p>
 
 <p align="Left">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Applied AI & Machine Learning Engineer  
+## AI & Machine Learning Engineer  
 Forecasting • Anomaly Detection • LLMs • Intelligent Systems
 
 ---
