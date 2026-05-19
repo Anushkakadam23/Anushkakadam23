@@ -17,9 +17,8 @@ I enjoy building AI-powered systems that solve real-world problems using:
 
 🎓 MSc Data Science – University of Greenwich  
 
----
-
 ## 🛠️ Tech Stack
+
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,17 +41,17 @@ I enjoy building AI-powered systems that solve real-world problems using:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-# 📊 GitHub Stats 
-<p align="center"> 
+
+## 📊 GitHub Stats 
+<p align="Left"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushkakadam23&show_icons=true&theme=tokyonight&hide_border=true"/> 
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkakadam23&theme=tokyonight&hide_border=true"/> </p>
   
----
 
 ## 📫 Reach Me Out On
 - Email - anushkapkadam@gmail.com  
 - LinkedIn - [anushkakadam](https://www.linkedin.com/in/anushka-kadam-6829211b6)
----
-📣 Let's Connect!
+  
+
+## 📣 Let's Connect!
 I'm excited to connect with fellow developers, enthusiasts, and mentors. Feel free to reach out, and let's collaborate on something amazing!
