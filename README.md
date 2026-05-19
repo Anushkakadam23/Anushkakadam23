@@ -37,14 +37,20 @@ I enjoy building AI-powered systems that solve real-world problems using:
 )
 
 ---
-## 🌐 Connect With Me 
+## 📫 Reach Me out on
 <p align="center"> 
-<a href="mailto:anushkapkadam@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-<a href="https://linkedin.com/in/anushka-kadam-6829211b6"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-<a href="https://anushkakadam.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> </p>
+<a href="mailto:anushkapkadam@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+</a> 
+<a href="https://linkedin.com/in/anushka-kadam-6829211b6"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a> 
+<a href="https://anushkakadam.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> 
+</a> 
+</p>
 
-## 🌐 Connect With Me
-
+## 📫 Reach Me out on 
 - 📫 anushkapkadam@gmail.com
 - 🔗 www.linkedin.com/in/anushka-kadam-6829211b6
-- 🌍 anushkakadam.netlify.app
+  
+---
+📣 Let's Connect!
+I'm excited to connect with fellow developers, enthusiasts, and mentors. Feel free to reach out, and let's collaborate on something amazing!
